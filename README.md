@@ -1,5 +1,4 @@
-# Decodeslabs-Internship
-Internships Projects
+# Projects 1
 # Data Cleaning Project – Week 1
 
 ## 📊 Project Overview
