@@ -1,6 +1,4 @@
-# Projects 1
 # Data Cleaning Project – Week 1
-
 ## 📊 Project Overview
 This project focused on cleaning and preparing a raw e-commerce dataset for analysis. The objective was to improve data quality by identifying missing values, removing inconsistencies, validating data formats, and standardizing text fields.
 
@@ -39,7 +37,7 @@ A full scan of the dataset was conducted to identify missing or null values.
 - All other columns had complete records
 
 **Action Taken:**
-- Replaced missing values in `CouponCode` with **"No Coupon"** to maintain consistency and preserve data integrity
+- Replaced missing values in `CouponCode` with **"NO COUPON"** to maintain consistency and preserve data integrity
 <img width="1365" height="729" alt="Power Query" src="https://github.com/user-attachments/assets/229a98d3-48d3-4181-8459-4fb7fa62fd3f" />
 
 ---
